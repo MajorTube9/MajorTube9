@@ -4,9 +4,10 @@
 
 ### Estudante de Ciência da Computação na FEI | Desenvolvedor de Software
 
-<img src="https://media.giphy.com/media/13HgwGsFlals0w/giphy.gif" width="320" alt="Animação de programador trabalhando em um computador" />
+<img src="https://media.giphy.com/media/cCXixzqiRYwgT3H5um/giphy.gif" width="240" alt="Animação do símbolo de Assassin's Creed" />
 
-*“A jornada de mil linhas de código começa com um único commit.”*
+*“Nothing is true, everything is permitted.”*  
+— **Assassin's Creed**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MajorTube9-24292e?style=flat-square&logo=github)](https://github.com/MajorTube9)
 
@@ -53,9 +54,6 @@ Desenvolvi um site institucional para apresentar os serviços da empresa e facil
 ---
 
 <div align="center">
-
-*“It’s dangerous to go alone! Take this.”*  
-— **The Legend of Zelda**
 
 **Obrigado pela visita.**
 
