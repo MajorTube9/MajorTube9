@@ -4,7 +4,7 @@
 
 ### Estudante de Ciência da Computação na FEI | Desenvolvedor de Software
 
-<img src="https://media1.tenor.com/m/pTPPHO2RdMsAAAAd/spongebob-patrick-star.gif" width="320" alt="Patrick Estrela dizendo que temos tecnologia e batendo no computador" />
+<img src="https://tenor.com/xwwv.gif" width="320" alt="Patrick Estrela dizendo que temos tecnologia e batendo no computador" />
 
 *Construindo projetos, aprendendo na prática e evoluindo a cada commit.*
 
