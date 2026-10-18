@@ -6,7 +6,7 @@
 
 <img src="https://media1.tenor.com/m/enLBClxEcWMAAAAd/spongebob-technology.gif" width="320" alt="Bob Esponja e Patrick dizendo que têm tecnologia" />
 
-*Construindo projetos, aprendendo na prática e evoluindo a cada commit.*
+*Erro 404: Frase de efeito não encontrada*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MajorTube9-24292e?style=flat-square&logo=github)](https://github.com/MajorTube9)
 
