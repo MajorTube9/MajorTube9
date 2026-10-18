@@ -4,10 +4,9 @@
 
 ### Estudante de Ciência da Computação na FEI | Desenvolvedor de Software
 
-<img src="https://media.giphy.com/media/cCXixzqiRYwgT3H5um/giphy.gif" width="240" alt="Animação do símbolo de Assassin's Creed" />
+<img src="https://media1.tenor.com/m/pTPPHO2RdMsAAAAd/spongebob-patrick-star.gif" width="320" alt="Patrick Estrela dizendo que temos tecnologia e batendo no computador" />
 
-*“Nothing is true, everything is permitted.”*  
-— **Assassin's Creed**
+*Construindo projetos, aprendendo na prática e evoluindo a cada commit.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MajorTube9-24292e?style=flat-square&logo=github)](https://github.com/MajorTube9)
 
@@ -56,5 +55,8 @@ Desenvolvi um site institucional para apresentar os serviços da empresa e facil
 <div align="center">
 
 **Obrigado pela visita.**
+
+*“Nothing is true, everything is permitted.”*  
+— **Assassin's Creed**
 
 </div>
