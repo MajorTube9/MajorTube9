@@ -39,7 +39,7 @@ Desenvolvi um site institucional para apresentar os serviços da empresa e facil
 
 **Destaques:** desenvolvimento web, organização de conteúdo e publicação de um site para uso real.
 
-[ Acessar o site](https://jcmsg-engenharia.com)
+
 
 ## Atividade no GitHub
 
