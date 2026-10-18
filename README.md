@@ -4,9 +4,9 @@
 
 ### Estudante de Ciência da Computação na FEI | Desenvolvedor de Software
 
-<img src="https://media.giphy.com/media/8K25Ur4j4u0os35DsN/giphy.gif" width="180" alt="Pac-Man em estilo arcade" />
+<img src="https://media.giphy.com/media/13HgwGsFlals0w/giphy.gif" width="320" alt="Animação de programador trabalhando em um computador" />
 
-*Construindo projetos, aprendendo na prática e evoluindo a cada commit.*
+*“A jornada de mil linhas de código começa com um único commit.”*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MajorTube9-24292e?style=flat-square&logo=github)](https://github.com/MajorTube9)
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de **Ciência da Computação na FEI**, interessado em desenvolvimento de software e web. Gosto de transformar ideias em projetos práticos, aprender novas tecnologias e entender como as soluções funcionam por trás da tela.
 
-Fora do código, curto videogames, cultura nerd e pixel art — por isso, deixei um pequeno toque de arcade por aqui. 👾
+Nos momentos livres, curto videogames e cultura nerd. Acredito que programar também é como jogar: cada desafio ensina algo novo e cada erro faz parte da próxima tentativa.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -31,7 +31,7 @@ Fora do código, curto videogames, cultura nerd e pixel art — por isso, deixei
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 ### [Site institucional — JCMSG Engenharia de Segurança](https://github.com/MajorTube9/site_jcmsg)
 
@@ -39,9 +39,9 @@ Desenvolvi um site institucional para apresentar os serviços da empresa e facil
 
 **Destaques:** desenvolvimento web, organização de conteúdo e publicação de um site para uso real.
 
-[🌐 Acessar o site](https://jcmsg-engenharia.com)
+[ Acessar o site](https://jcmsg-engenharia.com)
 
-## 📈 Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
 
@@ -54,8 +54,9 @@ Desenvolvi um site institucional para apresentar os serviços da empresa e facil
 
 <div align="center">
 
-**Obrigado pela visita!** ⭐
+*“It’s dangerous to go alone! Take this.”*  
+— **The Legend of Zelda**
 
-*Um projeto de cada vez. Um commit de cada vez.*
+**Obrigado pela visita.**
 
 </div>
